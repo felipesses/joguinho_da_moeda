@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893976120672",
+    "project_id": "joguinho-da",
+    "storage_bucket": "joguinho-da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893976120672:android:51fbada3d7f92b70596205",
+        "android_client_info": {
+          "package_name": "com.example.joguinho_da_moeda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893976120672-41eqoungi6f5f7netlbleapipvh9dvbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABSntLmDtH9aGpL1njTi1B_DWN4x7LPqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893976120672-41eqoungi6f5f7netlbleapipvh9dvbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
